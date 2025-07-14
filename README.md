@@ -141,7 +141,6 @@ are designated with a ✅, and hosted projects with a 💙.
 ## User Interface Plugins
 
 - 💙 [maplibre-gl-compare](https://github.com/maplibre/maplibre-gl-compare) - Enables users to compare two maps by swiping left and right.
-- [any-routing](https://github.com/marucjmar/any-routing) - A modular plugin for calculating routes.
 - [Gauge Legend](https://github.com/AbelVM/gauge_legend) - Dynamic gauge legend for MapLibre GL JS
 - [mapbox-gl-controls](https://github.com/bravecow/mapbox-gl-controls) - Adds controls for a ruler, style inspector, localization, and style switcher.
 - [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) - Adds support for drawing and editing features on maps.
@@ -222,7 +221,6 @@ are designated with a ✅, and hosted projects with a 💙.
 
 - [mapbox-gl-framerate](https://github.com/mapbox/mapbox-gl-framerate) - A frame rate control to evaluate map rendering performance.
 - [mapbox-gl-fps](https://github.com/MazeMap/mapbox-gl-fps) - A frames-per-seconds GUI control and measurer with statistic report output.
-- [mapgrab](https://mapgrab.github.io/) - A tool for creating end-to-end (e2e) map tests using popular testing frameworks like Playwright, Cypress, and Selenium.
 - [maplibre-gl-inspect](https://github.com/acalcutt/maplibre-gl-inspect) - Adds an inspect control to view vector source features and properties.
 
 <!-- [JAVASCRIPT-PLUGINS]:END -->
